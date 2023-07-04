@@ -1,0 +1,5 @@
+torchattacks==2.6
+torchvision==0.4.0a0+6b959ee
+tqdm==4.49.0
+numpy==1.19.1
+Pillow==8.0.1
